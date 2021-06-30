@@ -9,4 +9,4 @@ En este proyecto vamos a controlar un *Arduino* (en este caso usé un *Arduino N
 
 La aplicación permite controlar un relé (que enciende/apaga un velador) y 3 leds (encendiendo y apagando dos y variando el brillo del tercero), todo a través de una conexión *bluetooth* (utilizando un módulo HC-05).
 
-Más información en: [https://thenerdyapprentice.blogspot.com/](https://thenerdyapprentice.blogspot.com/)
+Más información en: [https://thenerdyapprentice.blogspot.com/2021/06/app-inventor-arduino-control-de-leds-y.html](https://thenerdyapprentice.blogspot.com/2021/06/app-inventor-arduino-control-de-leds-y.html)
